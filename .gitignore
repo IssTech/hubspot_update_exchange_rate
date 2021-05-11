@@ -5,9 +5,14 @@ __pycache__/
 
 # C extensions
 *.so
+config.sh
+exchange_rate.py
+hubspot.py
+pyvenv.cfg
 
 # Distribution / packaging
 .Python
+bin/
 build/
 develop-eggs/
 dist/
